@@ -1,0 +1,8 @@
+What is Git and how is it different than Github?
+	Git is a software that is used to track changes in a file or set of files. Git is different from Github in that Github is a place where a team can view and edit codes live online.
+Why use the terminal?
+We use the terminal because as programmers we want to give our commands directly to the computer.
+3 benefits of version control
+1) We can edit files in real time from the comfort of any terminal we are at.
+2) We can delete unnecessary parts of our code
+3) We can create copies of the file if we aren’t working on our original terminals
