@@ -1,0 +1,11 @@
+What is Programming
+1)What is Python?
+
+
+2) Explain Data Python Types?
+
+The python data types include intigers, floats, and strings. Intigers are whole numbers or numbers without decimals such as -2, -1, 0, 1, 2. Floats on the other hand are numbers that contain decimals such as 1/3 or sqrt(2). Strings on the other hand are sets of numbers that can be ordered or unordered.
+
+3) What is a function?
+4) Explain python’s print statement
+5) Complete notebook called pre_training.ipynb
