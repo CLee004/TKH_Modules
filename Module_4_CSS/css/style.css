@@ -76,7 +76,7 @@ a:hover{
 .profile{
     padding: 1em;
 }
-.profile-pic{}
+.profile-pic{ }
 .about-me-text{
     padding: 1em;
 }
@@ -191,7 +191,7 @@ input[type=submit]:hover{
     box-shadow: 0 14px 28px rgba(0,0,0,0,.25), 0 10px 10px rgba(0,0,0,0,.22);
 }
 /*This is to specify that a specific input element should be affected by attribute.*/
-input[type=button],{}
+input[type=button],{ }
 
 /*resume*/
 .jobs{
@@ -210,7 +210,16 @@ input[type=button],{}
 }
 
 /*education*/
-.education{}
+.education{display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80vw;
+    margin: .5rem;
+    padding: 2rem;
+    border-radius: 10px;
+    background-color: var(--second-color);
+    box-shadow: var(--shadow);
+}
 
 /*footer*/
 .footer{
