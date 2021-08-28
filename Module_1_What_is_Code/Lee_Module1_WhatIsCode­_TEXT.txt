@@ -1,0 +1,22 @@
+1) What is a computer really doing whenever you type a letter on your keyboard?
+A computer at first is always scanning waiting to respond to a single letter pressed on the keyboard. Once the key is pressed a ‘make and break’ code is triggered so that the computer knows you want a single letter. Once that letter is pressed the computer looks to it’s memory to grab the image of the letter that was pressed. Once the letter is found then it is displayed on the screen for the user.
+2) How do computers use input and output to create experiences?
+Computers take input, process said input, then outputs a response. This input and output create an experience for the user which can be enjoyable, useful, or beneficial. 
+3) Explain why software products are “infinitely reproducible nothings”. 
+Software products are “infinitely reproducible nothings” because they are replaceable by better and sometimes cheaper products. Like for example when net scape came out with their browser that they wanted people to subscribe to while Microsoft came out with internet explorer and gave it out for free.
+4) How does code become software?
+Code or instructions are imputed into the compiler and software is ran to chance the code in machine language which the computer can now understand.
+5) “algorithms”?
+An algorithm is a recipe that a coder can implement to solve their complex problems. Good algorithms get names.
+6) DRY principle?
+The dry principle is also known as not repeating yourself. In code when a variable is named and used that should be it but sometimes, we repeat ourselves in code again and again. We want to avoid that, and we call that the dry principle.
+7) Object-oriented programming?
+Object-oriented programming is a way to structure a software program into simple code that can be called upon when needed time and time again. This is useful to prevent repetitiveness in code.
+8) What is data and how it relates to code?
+Data in computer science is the quantities, characters, or symbols on which operations are performed by the computer. Data relates to code by treating the code in a programming language as the data handled by a running program. So, code and data are somewhat interchangeable.
+9) What is a framework?
+A framework is like a structure that one can follow to accomplish a task. For example Django is a frame work for python which can be used to help you make a website.
+10) What is debugging?
+Debugging is both the process of finding errors in your code as well as the figuring out problems that could occur in the future with your code. For example, let’s say that you write a code that returns the square of a number, so you type in the number 3 for example and the code gives you back 9. However, let’s consider the situation when we type in 4.25 and the computer returns 16 instead of the true square answer, this is a problem we will figure out in debugging.
+11) Why do you want to learn how to code?
+I want to learn how to code so that I can analyze data better and help my future employers to make better decisions. 
